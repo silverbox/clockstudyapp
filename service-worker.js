@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1a90f26413ea26d29b5a7abc7db9bed4.js"
+  "/clockstudyapp/precache-manifest.b0263c29097988540370be638131b98c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "clockstudy"});
